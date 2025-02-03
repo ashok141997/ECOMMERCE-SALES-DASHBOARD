@@ -14,7 +14,7 @@ This repository contains an **interactive Power BI dashboard** designed to analy
 
 ## 📂 Repository Contents  
 - `Dashboard.pbix` – Power BI dashboard file.  
-- `Dataset/` – Source data used for visualization (if applicable).  
+- `Dataset/` – Source data used for visualization.  
 - `Screenshots/` – Previews of the dashboard visuals.  
 
 ## 🚀 Getting Started  
