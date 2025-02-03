@@ -10,7 +10,7 @@ This repository contains an **interactive Power BI dashboard** designed to analy
 - **Interactive Filters** – Enables **quarterly and category-based** filtering for deeper insights.  
 
 ## 📷 Dashboard Preview  
-![E-commerce Sales Dashboard] <img src="architecture.jpg">
+[E-commerce Sales Dashboard] <img src="Dashboard.png">
 
 ## 📂 Repository Contents  
 - `Dashboard.pbix` – Power BI dashboard file.  
