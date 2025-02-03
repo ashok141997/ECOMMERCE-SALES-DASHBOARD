@@ -21,4 +21,4 @@ This repository contains an **interactive Power BI dashboard** designed to analy
 1. **Install Power BI Desktop** (if not already installed).  
 2. Clone this repository:  
    ```sh
-   git clone https://github.com/yourusername/your-repo.git
+   git clone [https://github.com/yourusername/your-repo.git](https://github.com/ashok141997/ECOMMERCE-SALES-DASHBOARD/blob/main/SalesM.pbix)
